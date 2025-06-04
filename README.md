@@ -1,4 +1,5 @@
 Knights and Knaves Logic Puzzles:
+
 A Python implementation solving classic Knights and Knaves logic puzzles using propositional logic and model checking.
 Overview
 
